@@ -1,0 +1,9 @@
+Package: ajbbotech.com.snapstoryspoof
+Name: SnapStorySpoof
+Depends: mobilesubstrate, ws.hbang.common
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: aJBboCydia
+Author: aJBboCydia
+Section: Tweaks

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Settings</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>snapspoof</string>
+			<key>key</key>
+			<string>SwViews</string>
+			<key>label</key>
+			<string>Tweak_Views</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>snapspoof</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>SetViews</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>SetView</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>snapspoof</string>
+			<key>key</key>
+			<string>SwScreenShot</string>
+			<key>label</key>
+			<string>Tweak_Screen</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>snapspoof</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>SetScreen</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Tweak_Shot</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>FDev</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>FayezDev (English)</string>
+			<key>user</key>
+			<string>FayezDev</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>Ahmad Salah</string>
+			<key>user</key>
+			<string>its_Fywre</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>aJBbo (Abdullah)</string>
+			<key>user</key>
+			<string>aJBboCydia</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon@2x.png</string>
+			<key>label</key>
+			<string>Donate via paypal</string>
+			<key>subtitle</key>
+			<string>Support me!</string>
+			<key>url</key>
+			<string>https://www.paypal.me/ajbbocydia</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>© 2019 
+ @aJBboCydia And @its_Fywre</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>SnapStorySpoof</string>
+</dict>
+</plist>
